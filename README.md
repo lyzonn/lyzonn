@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lyzonn
+- 👀 I’m interested in informatic and code
+- 🌱 I’m currently learning python 
+- 📫 if you need me : lyzon#7275
